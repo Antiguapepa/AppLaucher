@@ -1,0 +1,21 @@
+{
+  "client_message": {
+    "color": "#000000",
+    "show": true,
+    "text": "Hola está es la nueva actualización "
+  },
+  "launcher_apps": [
+    "Nada",
+    "Ajustes",
+    "Smartube",
+    "Nebula"
+  ],
+  "update_info": [
+    {
+      "name": "Nada",
+      "paquete": "ule",
+      "url": "wnjss",
+      "version": 1
+    }
+  ]
+}

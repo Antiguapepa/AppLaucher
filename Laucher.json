@@ -1,21 +1,30 @@
 {
   "client_message": {
-    "color": "#0000FF",
+    "color": "#E75071",
     "show": true,
-    "text": "Hola está es la nueva actualización "
+    "text": "Pagaaaa el Sorteó "
   },
   "launcher_apps": [
-    "Nada",
+    "Tets",
+    "Nadota",
+    "sbds",
     "Ajustes",
-    "Smartube",
+    "smartube",
+    "Configuración",
     "Nebula"
   ],
   "update_info": [
     {
-      "name": "Nada",
-      "paquete": "ule",
-      "url": "wnjss",
-      "version": 1
+      "name": "Tets",
+      "paquete": "dbdb",
+      "url": "",
+      "version": 9594
+    },
+    {
+      "name": "Nadota",
+      "paquete": "djej",
+      "url": "sjewj",
+      "version": 2
     }
   ]
 }

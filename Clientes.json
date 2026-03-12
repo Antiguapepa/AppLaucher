@@ -1,1 +1,16 @@
-
+{
+  "lista_clientes": [
+    {
+      "correo": "xiromartinez@hotmail.com",
+      "lista_ids": [
+        "48F4DD3A"
+      ],
+      "mensaje": "ue",
+      "nombre": "Adrian ",
+      "password": "181210",
+      "servicio": "Like ",
+      "telefono": "3512058116",
+      "vencimiento": "13/03/2026"
+    }
+  ]
+}

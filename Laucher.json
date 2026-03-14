@@ -1,1 +1,21 @@
-
+{
+  "client_message": {
+    "color": "#FF5722",
+    "show": true,
+    "text": "Renova tu servicio "
+  },
+  "launcher_apps": [
+    "Nada",
+    "Nebula",
+    "Ajustes",
+    "Configuración"
+  ],
+  "update_info": [
+    {
+      "name": "Nada",
+      "paquete": "rest",
+      "url": "djdjd",
+      "version": 261
+    }
+  ]
+}

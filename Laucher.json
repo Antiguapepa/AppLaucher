@@ -1,8 +1,8 @@
 {
   "client_message": {
-    "color": "#FF5722",
+    "color": "#FFC066",
     "show": true,
-    "text": "PAGA EL SERVICIO"
+    "text": "recuerde pagar el servicio a tiempo"
   },
   "launcher_apps": [
     "Nebula",

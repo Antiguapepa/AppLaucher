@@ -3,15 +3,32 @@ const app = express();
 const path = require('path');
 const port = process.env.PORT || 3000;
 
-// Servir los archivos JSON de forma estática
-app.use('/static', express.static(path.join(__dirname, 'data')));
-
-app.get('/clientes', (req, res) => {
-    res.sendFile(path.join(__dirname, 'data', 'Clientes.Json'));
+// Ruta de prueba (RAÍZ) - Entrá a https://applaucher.onrender.com/ para ver esto
+app.get('/', (req, res) => {
+    res.send('<h1>Servidor AppLaucher en línea</h1>');
 });
 
+// Ruta de Clientes
+app.get('/clientes', (req, res) => {
+    // IMPORTANTE: Verifica que la carpeta se llame 'data' y el archivo 'Clientes.json' en GitHub
+    const filePath = path.join(__dirname, 'data', 'Clientes.json');
+    res.sendFile(filePath, (err) => {
+        if (err) {
+            console.error("Error al enviar Clientes.json:", err);
+            res.status(404).send("Archivo Clientes.json no encontrado en el servidor");
+        }
+    });
+});
+
+// Ruta de Launcher
 app.get('/launcher', (req, res) => {
-    res.sendFile(path.join(__dirname, 'data', 'Laucher.json'));
+    const filePath = path.join(__dirname, 'data', 'Laucher.json');
+    res.sendFile(filePath, (err) => {
+        if (err) {
+            console.error("Error al enviar Laucher.json:", err);
+            res.status(404).send("Archivo Laucher.json no encontrado en el servidor");
+        }
+    });
 });
 
 app.listen(port, () => {

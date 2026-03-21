@@ -1,12 +1,35 @@
 {
   "client_message": {
-    "color": "#FFC066",
+    "color": "#FF5722",
     "show": true,
-    "text": "recuerde pagar el servicio a tiempo"
+    "text": "Renova tu servicio "
   },
   "launcher_apps": [
+    "Nada",
     "Nebula",
+    "SmartTube",
+    "Ajustes",
+    "Configuración",
     "Smartube"
   ],
-  "update_info": []
+  "update_info": [
+    {
+      "name": "Nada",
+      "paquete": "rest",
+      "url": "djdjd",
+      "version": 261
+    },
+    {
+      "name": "Nebula",
+      "paquete": "com.nebula.ar",
+      "url": "raw",
+      "version": 2
+    },
+    {
+      "name": "SmartTube",
+      "paquete": "org.smarttube.stable",
+      "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/smarttube_stable%20(1).apk",
+      "version": 2
+    }
+  ]
 }

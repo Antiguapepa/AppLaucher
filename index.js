@@ -7,11 +7,11 @@ const port = process.env.PORT || 3000;
 app.use('/static', express.static(path.join(__dirname, 'data')));
 
 app.get('/clientes', (req, res) => {
-    res.sendFile(path.join(__dirname, 'data', 'clientes.json'));
+    res.sendFile(path.join(__dirname, 'data', 'Clientes.Json'));
 });
 
 app.get('/launcher', (req, res) => {
-    res.sendFile(path.join(__dirname, 'data', 'launcher.json'));
+    res.sendFile(path.join(__dirname, 'data', 'Laucher.json'));
 });
 
 app.listen(port, () => {

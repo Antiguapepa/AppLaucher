@@ -3,32 +3,31 @@ const app = express();
 const path = require('path');
 const port = process.env.PORT || 3000;
 
-// Ruta de prueba (RAÍZ) - Entrá a https://applaucher.onrender.com/ para ver esto
-app.get('/', (req, res) => {
-    res.send('<h1>Servidor AppLaucher en línea</h1>');
-});
-
-// Ruta de Clientes
+// Ruta para Clientes (C mayúscula y J mayúscula como me pasaste)
 app.get('/clientes', (req, res) => {
-    // IMPORTANTE: Verifica que la carpeta se llame 'data' y el archivo 'Clientes.json' en GitHub
-    const filePath = path.join(__dirname, 'data', 'Clientes.json');
+    const filePath = path.join(__dirname, 'Clientes.Json');
     res.sendFile(filePath, (err) => {
         if (err) {
-            console.error("Error al enviar Clientes.json:", err);
-            res.status(404).send("Archivo Clientes.json no encontrado en el servidor");
+            console.error("Error al buscar Clientes.Json:", err);
+            res.status(404).send("No se encontró Clientes.Json en la raíz del repo");
         }
     });
 });
 
-// Ruta de Launcher
+// Ruta para Launcher (L mayúscula y j minúscula como me pasaste)
 app.get('/launcher', (req, res) => {
-    const filePath = path.join(__dirname, 'data', 'Laucher.json');
+    const filePath = path.join(__dirname, 'Laucher.json');
     res.sendFile(filePath, (err) => {
         if (err) {
-            console.error("Error al enviar Laucher.json:", err);
-            res.status(404).send("Archivo Laucher.json no encontrado en el servidor");
+            console.error("Error al buscar Laucher.json:", err);
+            res.status(404).send("No se encontró Laucher.json en la raíz del repo");
         }
     });
+});
+
+// Ruta raíz para probar que el servidor vive
+app.get('/', (req, res) => {
+    res.send('<h1>Servidor AppLaucher Activo</h1><p>Usa /clientes o /launcher</p>');
 });
 
 app.listen(port, () => {

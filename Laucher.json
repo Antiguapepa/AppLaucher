@@ -14,15 +14,15 @@
   ],
   "update_info": [
     {
-      "name": "Nada",
-      "paquete": "rest",
-      "url": "djdjd",
-      "version": 261
+      "name": "Configuracion",
+      "paquete": "intercorp.com.lauchermod",
+      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/TVWIZ.apk",
+      "version": 300
     },
     {
-      "name": "Nebula",
-      "paquete": "com.nebula.ar",
-      "url": "raw",
+      "name": "TV",
+      "paquete": "com.tv.tv",
+      "url": "https://github.com/M3ximlive/prueba/releases/download/3s2s/tutv.apk",
       "version": 2
     },
     {

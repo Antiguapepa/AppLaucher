@@ -1,34 +1,27 @@
 {
   "client_message": {
-    "color": "#FF5722",
+    "color": "#FF0022",
     "show": true,
-    "text": "Renova tu servicio "
+    "text": "Actualiza TU APP"
   },
   "launcher_apps": [
-    "Nada",
-    "Nebula",
     "SmartTube",
+    "Nebula Nuevo",
     "Ajustes",
     "Configuración",
     "Smartube"
   ],
   "update_info": [
     {
-      "name": "Configuracion",
-      "paquete": "intercorp.com.lauchermod",
-      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/TVWIZ.apk",
-      "version": 300
-    },
-    {
-      "name": "TV",
-      "paquete": "com.tv.tv",
-      "url": "https://github.com/M3ximlive/prueba/releases/download/3s2s/tutv.apk",
-      "version": 2
-    },
-    {
       "name": "SmartTube",
       "paquete": "org.smarttube.stable",
       "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/smarttube_stable%20(1).apk",
+      "version": 2
+    },
+    {
+      "name": "Nebula Nuevo",
+      "paquete": "com.tv.tv",
+      "url": "https://github.com/M3ximlive/prueba/releases/download/3s2s/tutv.apk",
       "version": 2
     }
   ]

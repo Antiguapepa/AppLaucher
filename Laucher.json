@@ -2,7 +2,7 @@
   "client_message": {
     "color": "#FF0022",
     "show": true,
-    "text": "Actualiza TU APP"
+    "text": "Actualiza App Ajustes para seguir disfrutando tu servicio"
   },
   "launcher_apps": [
     "SmartTube",
@@ -14,10 +14,10 @@
   ],
   "update_info": [
     {
-      "name": "SmartTube",
-      "paquete": "org.smarttube.stable",
-      "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/smarttube_stable%20(1).apk",
-      "version": 2
+      "name": "Ajustes",
+      "paquete": "intercorp.com.lauchermod",
+      "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/TVWIZ.apk",
+      "version": 2345
     },
     {
       "name": "Nebula Nuevo",

@@ -19,19 +19,19 @@
       "name": "SmartTube",
       "paquete": "org.smarttube.stable",
       "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/smarttube_stable%20(1).apk",
-      "version": 5
+      "version": 6
     },
     {
       "name": "Nebula Nuevo",
       "paquete": "com.tv.tv",
       "url": "https://github.com/M3ximlive/prueba/releases/download/3s2s/tutv.apk",
-      "version": 140
+      "version": 141
     },
     {
       "name": "Ajustes update",
       "paquete": "intercorp.com.lauchermod",
       "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/Laucher/TVWIZv2.apk",
-      "version": 247
+      "version": 248
     }
   ]
 }

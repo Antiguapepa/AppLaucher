@@ -28,10 +28,10 @@
       "version": 141
     },
     {
-      "name": "Ajustes update",
+      "name": "Antes de Actualizar preguntar Administrador",
       "paquete": "intercorp.com.lauchermod",
-      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/Laucher/TVWIZv2.apk",
-      "version": 248
+      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/Laucher/Laucherv3.apk",
+      "version": 250
     }
   ]
 }

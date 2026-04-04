@@ -19,19 +19,19 @@
       "name": "SmartTube",
       "paquete": "org.smarttube.stable",
       "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/smarttube_stable%20(1).apk",
-      "version": 6
+      "version": 7
     },
     {
       "name": "Nebula Nuevo",
       "paquete": "com.tv.tv",
       "url": "https://github.com/M3ximlive/prueba/releases/download/3s2s/tutv.apk",
-      "version": 141
+      "version": 142
     },
     {
       "name": "Antes de Actualizar preguntar Administrador",
       "paquete": "intercorp.com.lauchermod",
       "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/Laucher/Laucherv3.apk",
-      "version": 250
+      "version": 251
     }
   ]
 }

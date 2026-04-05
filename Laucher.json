@@ -15,6 +15,13 @@
     "Nebula"
   ],
   "update_info": [
+ {
+      "name": "Nebula Nuevo",
+      "paquete": "com.tv.tv",
+      "url": "https://github.com/M3ximlive/prueba/releases/download/3s2s/tutv.apk",
+      "version": 14223
+    },
+    
     {
       "name": "Nueva Aapppp",
       "paquete": "intercorp.com.lauchermod",

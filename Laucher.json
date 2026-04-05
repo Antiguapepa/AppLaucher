@@ -16,12 +16,17 @@
   ],
   "update_info": [
  {
-      "name": "Nebula Nuevo",
+      "name": "Nebula ",
+      "paquete": "com.tv.tv",
+      "url": "https://github.com/visiongolden/apkUpdate/releases/download/update/Nebula.apk",
+      "version": 14224
+    },
+    {
+      "name": "Tv",
       "paquete": "com.tv.tv",
       "url": "https://github.com/M3ximlive/prueba/releases/download/3s2s/tutv.apk",
-      "version": 14223
+      "version": 14224
     },
-    
     {
       "name": "Nueva Aapppp",
       "paquete": "intercorp.com.lauchermod",

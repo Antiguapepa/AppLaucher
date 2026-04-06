@@ -6,19 +6,15 @@
     "text": "Actualiza"
   },
   "launcher_apps": [
-    "Nebula ",
     "Tv",
-    "Nueva Aapppp",
     "SmartTube",
     "Ajustes",
     "Configuración",
-    "Smartube",
-    "TV",
     "Nebula"
   ],
   "update_info": [
     {
-      "name": "Nebula ",
+      "name": "Nebula",
       "url": "https://github.com/visiongolden/apkUpdate/releases/download/update/Nebula.apk"
     },
     {
@@ -26,8 +22,8 @@
       "url": "https://github.com/M3ximlive/prueba/releases/download/3s2s/tutv.apk"
     },
     {
-      "name": "Nueva Aapppp",
-      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/Laucher/Laucherv3.apk"
+      "name": "Actualizar importante version 2.4",
+      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/Laucher/Twizt2.4.apk"
     }
   ]
 }

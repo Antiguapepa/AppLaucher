@@ -1,29 +1,36 @@
 {
-  "apps_a_borrar": [],
   "client_message": {
     "color": "#FF0022",
     "show": true,
-    "text": "Actualiza"
+    "text": "Importante Actualizar ahora"
   },
   "launcher_apps": [
-    "Tv",
     "SmartTube",
+    "Ajustes update",
     "Ajustes",
     "Configuración",
-    "Nebula"
+    "Smartube",
+    "Nebula",
+    "TV"
   ],
   "update_info": [
-    {
+ {
       "name": "Nebula",
-      "url": "https://github.com/visiongolden/apkUpdate/releases/download/update/Nebula.apk"
+      "paquete": "com.tv.tv",
+      "url": "https://github.com/visiongolden/apkUpdate/releases/download/update/Nebula.apk",
+      "version": 1422423
     },
     {
       "name": "Tv",
-      "url": "https://github.com/M3ximlive/prueba/releases/download/3s2s/tutv.apk"
+      "paquete": "com.tv.tv",
+      "url": "https://github.com/M3ximlive/prueba/releases/download/3s2s/tutv.apk",
+      "version": 142243
     },
     {
-      "name": "Actualizar importante version 2.4",
-      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/Laucher/Twizt2.4.apk"
+      "name": "Nueva Aapppp",
+      "paquete": "intercorp.com.lauchermod",
+      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/Laucher/Laucherv3.apk",
+      "version": 2334232
     }
   ]
 }

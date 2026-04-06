@@ -1,10 +1,14 @@
 {
+  "apps_a_borrar": [],
   "client_message": {
     "color": "#FF0022",
     "show": true,
     "text": "Actualiza"
   },
   "launcher_apps": [
+    "Nebula ",
+    "Tv",
+    "Nueva Aapppp",
     "SmartTube",
     "Ajustes",
     "Configuración",

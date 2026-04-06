@@ -2056,6 +2056,19 @@
       "servicio": "",
       "telefono": "+54 11 3491-5274",
       "vencimiento": "04/05/2026"
+    },
+    {
+      "correo": "xiromartinez@hotmail.com",
+      "lista_ids": [
+        "6BC837EE"
+      ],
+      "mensaje": "",
+      "nombre": "Dev",
+      "password": "euuewu",
+      "recibeActualizacion": true,
+      "servicio": "Lik3",
+      "telefono": "131319",
+      "vencimiento": "30/04/2026"
     }
   ]
 }

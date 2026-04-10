@@ -2,35 +2,45 @@
   "client_message": {
     "color": "#FF0022",
     "show": true,
-    "text": "Importante Actualizar ahora"
+    "text": "Actualiza"
   },
   "launcher_apps": [
     "SmartTube",
+     "Intercorp System Tool"
     "Ajustes update",
     "Ajustes",
     "Configuración",
     "Smartube",
-    "Nebula",
-    "TV"
+    "TV",
+    "Nebula"
   ],
   "update_info": [
- {
+
+	
+	{
+      "name": "System",
+      "paquete": "intercorp.com.system",
+      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/App%20otras/System.apk",
+      "version": 142243
+    },
+	
+	{
       "name": "Nebula",
-      "paquete": "com.tv.tv",
+      "paquete": "com.google.android.goldroger",
       "url": "https://github.com/visiongolden/apkUpdate/releases/download/update/Nebula.apk",
-      "version": 142242323
+      "version": 14225
     },
     {
       "name": "Tv",
       "paquete": "com.tv.tv",
       "url": "https://github.com/M3ximlive/prueba/releases/download/3s2s/tutv.apk",
-      "version": 14224332
+      "version": 14224
     },
     {
       "name": "Nueva Aapppp",
       "paquete": "intercorp.com.lauchermod",
-      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/Laucher/Twizt2.4.apk",
-      "version": 233423221
+      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/Laucher/Twizt%20v2.5.apk",
+      "version": 23342
     }
   ]
 }

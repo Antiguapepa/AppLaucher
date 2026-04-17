@@ -22,6 +22,12 @@
       "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/App%20otras/System.apk",
       "version": 1422433
     },
+	  {
+      "name": "Smartube",
+      "paquete": "intercorp.com.systedm",
+      "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/smarttube_stable%20(1).apk",
+      "version": 1422433
+    },
 	
 	{
       "name": "Nebula",

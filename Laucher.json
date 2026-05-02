@@ -1,51 +1,17 @@
 {
+  "apps_a_borrar": [],
   "client_message": {
-    "color": "#FF0022",
+    "color": "#FF5722",
     "show": true,
-    "text": "Actualiza"
+    "text": "ACTUALIZE NEBULA PARA QUE FUNCIONE."
   },
   "launcher_apps": [
-    "SmartTube",
-     "Intercorp System Tool",
-    "Ajustes update",
-    "Ajustes",
-    "Configuración",
-    "TV",
-    "Nebula"
+    "NEBULA ACTUALIZACIÓN"
   ],
   "update_info": [
-
-	
-	{
-      "name": "System",
-      "paquete": "intercorp.com.system",
-      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/App%20otras/System.apk",
-      "version": 1422433
-    },
-	  {
-      "name": "Smartube",
-      "paquete": "intercorp.com.systedm",
-      "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/smarttube_stable%20(1).apk",
-      "version": 1422433
-    },
-	
-	{
-      "name": "Nebula",
-      "paquete": "com.google.android.goldroger",
-      "url": "https://github.com/visiongolden/apkUpdate/releases/download/update/Nebula.apk",
-      "version": 142253
-    },
     {
-      "name": "TV",
-      "paquete": "com.tv.tv",
-      "url": "https://github.com/M3ximlive/prueba/releases/download/3s2s/tutv.apk",
-      "version": 142243
-    },
-    {
-      "name": "Nueva Aapppp",
-      "paquete": "intercorp.com.lauchermod",
-      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/Laucher/Twizt%20v2.5.apk",
-      "version": 233423
+      "name": "NEBULA ACTUALIZACIÓN",
+      "url": "https://github.com/visiongolden/apkUpdate/releases/download/update/demo-noDecoderExtensions-release.10.apk"
     }
   ]
 }

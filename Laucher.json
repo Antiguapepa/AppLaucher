@@ -6,11 +6,19 @@
     "text": "ACTUALIZE NEBULA PARA QUE FUNCIONE."
   },
   "launcher_apps": [
-    "NEBULA ACTUALIZACIÓN"
+    "NEBULA ACTUALIZACIÓN",
+    "ACTUALIZACION DE NEBULA",
+    "Nebula",
+    "TV",
+    "SmartTube"
   ],
   "update_info": [
     {
       "name": "NEBULA ACTUALIZACIÓN",
+      "url": "https://github.com/visiongolden/apkUpdate/releases/download/update/demo-noDecoderExtensions-release.10.apk"
+    },
+    {
+      "name": "ACTUALIZACION DE NEBULA",
       "url": "https://github.com/visiongolden/apkUpdate/releases/download/update/demo-noDecoderExtensions-release.10.apk"
     }
   ]

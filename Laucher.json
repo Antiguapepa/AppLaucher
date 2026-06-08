@@ -1,52 +1,42 @@
 {
+  "apps_a_borrar": [],
   "client_message": {
     "color": "#FF0022",
     "show": true,
     "text": "Cambios: Se agrego SmarTube --Youtube Premiun--"
   },
   "launcher_apps": [
-
-     "Intercorp System Tool",
+    "System",
+    "Nebula",
+    "TV",
+    "SmarTube",
+    "Nueva Aapppp",
+    "Intercorp System Tool",
     "Ajustes update",
     "Ajustes",
     "Configuración",
-    "SmartTube",
-    "TV",
-    "Nebula"
+    "SmartTube"
   ],
   "update_info": [
-
-	
-	{
+    {
       "name": "System",
-      "paquete": "intercorp.com.system",
-      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/App%20otras/System.apk",
-      "version": 1422436
+      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/App%20otras/System.apk"
     },
-	
-	{
+    {
       "name": "Nebula",
-      "paquete": "com.google.android.goldroger",
-      "url": "https://github.com/visiongolden/apkUpdate/releases/download/update/demo-noDecoderExtensions-release.10.apk",
-      "version": 142256
+      "url": "https://github.com/visiongolden/apkUpdate/releases/download/update/demo-noDecoderExtensions-release.10.apk"
     },
     {
       "name": "TV",
-      "paquete": "com.tv.tv",
-      "url": "https://github.com/M3ximlive/prueba/releases/download/3s2s/tutv.apk",
-      "version": 142246
+      "url": "https://github.com/visiongolden/apkUpdate/releases/download/update/TV.apk"
     },
-	 {
+    {
       "name": "SmarTube",
-      "paquete": "org.smarttube.stable",
-      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/App%20otras/smarttube_stable%20(1).apk",
-      "version": 142247
+      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/App%20otras/smarttube_stable%20(1).apk"
     },
     {
       "name": "Nueva Aapppp",
-      "paquete": "intercorp.com.lauchermod",
-      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/Laucher/Twizt%20v2.5.apk",
-      "version": 233426
+      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/Laucher/Twizt%20v2.5.apk"
     }
   ]
 }

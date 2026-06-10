@@ -21,31 +21,31 @@
       "name": "System",
       "paquete": "intercorp.com.system",
       "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/App%20otras/System.apk",
-       "version": 233427
+       "version": 2334288
     },
     {
       "name": "Nebula",
       "paquete": "com.google.android.goldroger",
       "url": "https://github.com/visiongolden/apkUpdate/releases/download/update/demo-noDecoderExtensions-release.10.apk",
-      "version": 233427
+      "version": 2334288
     },
     {
       "name": "TV",
       "paquete": "com.tv.tv",
       "url": "https://github.com/visiongolden/apkUpdate/releases/download/update/TV.apk",
-      "version": 233427
+      "version": 2334288
     },
     {
       "name": "SmarTube",
      "paquete": "org.smarttube.stable", 
       "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/App%20otras/smarttube_stable%20(1).apk",
-      "version": 233427
+      "version": 2334278
     },
     {
       "name": "Nueva Aapppp",
       "paquete": "intercorp.com.lauchermod",
       "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/Laucher/Twizt%20v2.5.apk",
-      "version": 233427
+      "version": 2334278
     }
   ]
 }

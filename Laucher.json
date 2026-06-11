@@ -3,7 +3,7 @@
   "client_message": {
     "color": "#FF0022",
     "show": true,
-    "text": "Nueva update Tv Actualizar importante"
+    "text": "Se agrego Tv --Actualizacion-- y SmartTube"
   },
   "launcher_apps": [
     "System",
@@ -32,7 +32,7 @@
     {
       "name": "TV",
       "paquete": "com.tv.tv",
-      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/App%20otras/Tv%20Nueva%201.2.apk",
+      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/App%20otras/Tv%20Nueva%201.2.1.apk",
       "version": 23342888
     },
     {

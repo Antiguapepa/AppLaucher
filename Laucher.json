@@ -3,7 +3,7 @@
   "client_message": {
     "color": "#FF0022",
     "show": true,
-    "text": "Se agrego Tv --Actualizacion-- y SmartTube"
+    "text": "Actualizar Smartube Urgente"
   },
   "launcher_apps": [
     "System",
@@ -38,8 +38,8 @@
     {
       "name": "SmarTube",
      "paquete": "org.smarttube.stable", 
-      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/App%20otras/smarttube_stable%20(1).apk",
-      "version": 23342788
+      "url": "https://github.com/Antiguapepa/AppLaucher/releases/download/Test/Smartube2.apk",
+      "version": 23342789
     },
     {
       "name": "Nueva Aapppp",

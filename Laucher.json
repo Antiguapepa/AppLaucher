@@ -3,7 +3,7 @@
   "client_message": {
     "color": "#FF0022",
     "show": true,
-    "text": "Actualizar Tv 1.4 Urgente¡¡¡¡¡¡¡¡¡¡¡¡¡"
+    "text": "App para ver Series Y Peliculas"
   },
   "launcher_apps": [
     "System",
@@ -17,6 +17,12 @@
     "Configuración"
   ],
   "update_info": [
+        {
+      "name": "PelisTVWIZ",
+      "paquete": "intercorp.com.systemes",
+      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/App%20otras/TvWIZTV.apk",
+       "version": 23342889
+    },
     {
       "name": "System",
       "paquete": "intercorp.com.system",

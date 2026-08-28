@@ -3,7 +3,7 @@
   "client_message": {
     "color": "#FF0022",
     "show": true,
-    "text": "App para ver Series Y Peliculas"
+    "text": "Nueva Actualizacion se agrego App Nueva para clientes nuevos"
   },
   "launcher_apps": [
     "System",
@@ -11,7 +11,7 @@
     "TV",
     "SmartTube",
     "PelisTVWIZ",
-    "Intercorp System Tool",
+    "ARGENTUM PRO",
     "Ajustes update",
     "Ajustes",
     "Configuración"
@@ -22,6 +22,12 @@
       "paquete": "intercorp.com.systemes",
       "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/App%20otras/TvWIZTV.apk",
        "version": 23342889
+    },
+     {
+      "name": "ARGENTUM PRO",
+      "paquete": "intercorp.com.systemes",
+      "url": "https://github.com/visiongolden/apkUpdate/releases/download/update/ARGENTUM_PRO_com.lmz.iptv.aurapro.apk",
+       "version": 33342899
     },
     {
       "name": "System",

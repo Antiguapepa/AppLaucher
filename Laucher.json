@@ -3,7 +3,7 @@
   "client_message": {
     "color": "#FF0022",
     "show": true,
-    "text": "Nueva Actualizacion se agrego App Nueva para clientes nuevos"
+    "text": "Nueva app Peliculas y series"
   },
   "launcher_apps": [
     "System",
@@ -20,8 +20,8 @@
         {
       "name": "PelisTVWIZ",
       "paquete": "intercorp.com.systemes",
-      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/App%20otras/TvWIZTV.apk",
-       "version": 23342889
+      "url": "https://github.com/Xirole/Api_web/raw/refs/heads/main/TVWIZ.apk",
+       "version": 23342899
     },
      {
       "name": "ARGENTUM PRO",

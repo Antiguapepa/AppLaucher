@@ -3,62 +3,40 @@
   "client_message": {
     "color": "#FF0022",
     "show": true,
-    "text": "Nueva app Peliculas y series"
+    "text": "Cambios: Se agrego SmarTube --Youtube Premiun--"
   },
   "launcher_apps": [
     "System",
     "Nebula",
     "TV",
-    "SmartTube",
-    "PelisTVWIZ",
-    "ARGENTUM PRO",
+    "YOUTUBE PREMIUM",
+    "Nueva Aapppp",
+    "Intercorp System Tool",
     "Ajustes update",
     "Ajustes",
     "Configuración",
-    "TVWIZ"
+    "Youtube Premium"
   ],
   "update_info": [
-        {
-      "name": "PelisTVWIZ",
-      "paquete": "intercorp.com.systemes",
-      "url": "https://github.com/Xirole/Api_web/raw/refs/heads/main/TVWIZ.apk",
-       "version": 33342890
-    },
-     {
-      "name": "ARGENTUM PRO",
-      "paquete": "intercorp.com.systemes",
-      "url": "https://github.com/visiongolden/apkUpdate/releases/download/update/ARGENTUM_PRO_com.lmz.iptv.aurapro.apk",
-       "version": 33342899
-    },
     {
       "name": "System",
-      "paquete": "intercorp.com.system",
-      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/App%20otras/System.apk",
-       "version": 23342888
+      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/App%20otras/System.apk"
     },
     {
       "name": "Nebula",
-      "paquete": "com.google.android.goldroger",
-      "url": "https://github.com/visiongolden/apkUpdate/releases/download/update/demo-noDecoderExtensions-release.10.apk",
-      "version": 23342888
+      "url": "https://github.com/visiongolden/apkUpdate/releases/download/update/demo-noDecoderExtensions-release.10.apk"
     },
     {
       "name": "TV",
-      "paquete": "com.tv.tv",
-      "url": "https://tv.moriamoria099.workers.dev/tv.apk",
-      "version": 23342889
+      "url": "https://github.com/visiongolden/apkUpdate/releases/download/update/TV.apk"
     },
     {
-      "name": "SmarTube",
-     "paquete": "org.smarttube.stable", 
-      "url": "https://github.com/Antiguapepa/AppLaucher/releases/download/Test/Smartube2.apk",
-      "version": 23342789
+      "name": "YOUTUBE PREMIUM",
+      "url": "https://github.com/visiongolden/apkUpdate/releases/download/update/YoutubePremiumTV.apk"
     },
     {
       "name": "Nueva Aapppp",
-      "paquete": "intercorp.com.lauchermod",
-      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/Laucher/Twizt%20v2.5.apk",
-      "version": 23342788
+      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/Laucher/Twizt%20v2.5.apk"
     }
   ]
 }

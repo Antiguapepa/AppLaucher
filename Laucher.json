@@ -10,6 +10,7 @@
     "Nebula",
     "TV",
     "SmartTube",
+     "Youtube Premium",
     "PelisTVWIZ",
     "ARGENTUM PRO",
     "Ajustes update",
@@ -48,12 +49,7 @@
       "url": "https://tv.moriamoria099.workers.dev/tv.apk",
       "version": 23342889
     },
-    {
-      "name": "SmarTube",
-     "paquete": "org.smarttube.stable", 
-      "url": "https://github.com/Antiguapepa/AppLaucher/releases/download/Test/Smartube2.apk",
-      "version": 23342789
-    },
+  
     {
       "name": "Nueva Aapppp",
       "paquete": "intercorp.com.lauchermod",
